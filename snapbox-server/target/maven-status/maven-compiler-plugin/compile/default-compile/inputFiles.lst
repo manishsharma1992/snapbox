@@ -1,0 +1,14 @@
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\domain\UserDomain.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\config\JwtRequestFilter.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\config\WebSecurityConfig.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\service\impl\UserService.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\utils\JwtTokenUtil.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\service\impl\JwtUserDetailsService.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\config\JwtAuthenticationEntryPoint.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\dao\impl\UserDao.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\dao\IUserDao.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\domain\JwtRequest.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\controller\JwtAuthenticationController.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\service\IJwtUserDetailsService.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\App.java
+C:\Projects\NeonWorkspace\MyInnovations\mili\snapbox\snapbox-server\src\main\java\com\kccoe\snapbox\domain\JwtResponse.java
